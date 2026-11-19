@@ -5,6 +5,10 @@ underwriting year and testing shares. It follows the same layout as the Universe
 and the CRESTA Aggregate Tracker: screens → services → repositories → database,
 numbered migrations, optimistic locking, an audit log, and Universe's reference lists.
 
+## Download
+
+**[Treaty_Performance_Tracker_Kit.zip](https://github.com/iwadaya/statistics-analysis/raw/main/Treaty_Performance_Tracker_Kit.zip)**: everything below in one zip. After downloading, right-click it → Properties → **Unblock**, then extract.
+
 ## What's in the kit
 
 | Path | What it is |
